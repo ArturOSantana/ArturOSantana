@@ -1,9 +1,5 @@
 <h1 align="center">🚀 Artur Oliveira de Santana</h1>
 
-<p align="center">
-  <em>"Wisdom is better than weapons of war." – Ecclesiastes 9:18</em><br/>
-  <em>"Melhor é a sabedoria do que as armas de guerra."</em>
-</p>
 
 <div align="center">
   
