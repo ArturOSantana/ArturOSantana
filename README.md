@@ -1,6 +1,4 @@
-
-
-<h1 align="center">Artur Oliveira de Santana</h1>
+<h1 align="center">🚀 Artur Oliveira de Santana</h1>
 
 <p align="center">
   <em>"Wisdom is better than weapons of war." – Ecclesiastes 9:18</em><br/>
@@ -10,51 +8,27 @@
 <div align="center">
   
 🎓 Estudante de Desenvolvimento de Sistemas na <strong>ETEC JK</strong>  
-💼 Jovem Aprendiz em Análise de Dados na <strong>ClearSale</strong>   
+💼 Jovem Aprendiz em Análise de Dados na <strong>ClearSale</strong>  
 🌎 São Paulo, Brasil
 
 </div>
 
 ---
 
-## 📌 Sobre mim | About me
-
-🇧🇷 **Olá!** Sou o Artur, apaixonado por tecnologia, pessoas e propósito.  
-Atualmente estudo Desenvolvimento de Sistemas e atuo com Análise de Dados.  
-Busco construir uma carreira sólida em áreas como desenvolvimento, dados, segurança, cloud e IA.  
-
-🇺🇸 **Hi there!** I'm Artur, passionate about technology, people and purpose.  
-I'm currently studying Software Development and working in Data Analysis.  
-I aim to build a strong career in development, data, cybersecurity, cloud, and AI.
-
----
-
 ## ⚙️ Tecnologias | Technologies
 
-<div align="center">
+<p>
+  <img alt="HTML5" src="https://skillicons.dev/icons?i=html" height="40" style="margin: 0 10px" />
+  <img alt="CSS3" src="https://skillicons.dev/icons?i=css" height="40" style="margin: 0 10px" />
+  <img alt="JavaScript" src="https://skillicons.dev/icons?i=js" height="40" style="margin: 0 10px" />
+  <img alt="C#" src="https://skillicons.dev/icons?i=cs" height="40" style="margin: 0 10px" />
+  <img alt="MySQL" src="https://skillicons.dev/icons?i=mysql" height="40" style="margin: 0 10px" />
+ <img alt="PHP" src="https://skillicons.dev/icons?i=php" height="40" style="margin: 0 10px" />
+  <img alt="Linux" src="https://skillicons.dev/icons?i=linux" height="40" style="margin: 0 10px" />
+  <img alt="Git" src="https://skillicons.dev/icons?i=git" height="40" style="margin: 0 10px" />
+  <img alt="VSCode" src="https://skillicons.dev/icons?i=vscode" height="40" style="margin: 0 10px" />
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 📚 Em aprendizado | Currently Learning
-
-- 🧱 Estruturação de aplicações com boas práticas
-- ☁️ Cloud Computing e Linux avançado
-- 📊 Business Intelligence e análise de dados
-- 🛡️ Segurança da Informação
-- 🤖 IA e automações com Python
-
----
 
 ## 📈 GitHub Stats
 
