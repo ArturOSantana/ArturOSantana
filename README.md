@@ -23,8 +23,7 @@
   <img alt="Linux" src="https://skillicons.dev/icons?i=linux" height="40" style="margin: 0 10px" />
   <img alt="Git" src="https://skillicons.dev/icons?i=git" height="40" style="margin: 0 10px" />
   <img alt="VSCode" src="https://skillicons.dev/icons?i=vscode" height="40" style="margin: 0 10px" />
-  <img alt="Babel" src="https://skillicons.dev/icons?i=babel" height="40" style="margin: 0 10px" />
-</p>
+  </p>
 
 
 ## 📈 GitHub Stats
