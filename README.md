@@ -1,41 +1,56 @@
-<h1 align="center">🚀 Artur Oliveira de Santana</h1>
-
+<h1 align="center">👋 Olá, eu sou o <span style="color:#4DB6AC;">Artur Oliveira de Santana</span></h1>
 
 <div align="center">
   
-🎓 Estudante de Desenvolvimento de Sistemas na <strong>ETEC JK</strong>  
-💼 Jovem Aprendiz em Análise de Dados na <strong>ClearSale</strong>  
-🌎 São Paulo, Brasil
+🎓 Estudante de **Desenvolvimento de Sistemas** na <strong>ETEC JK</strong>  
+💼 Jovem Aprendiz em **Análise de Dados** na <strong>ClearSale</strong>  
+🌎 São Paulo, Brasil  
 
 </div>
 
 ---
 
-## ⚙️ Tecnologias | Technologies
+## 🚀 Sobre mim
+Sou apaixonado por **tecnologia e inovação**.  
+Meu propósito é aprender continuamente e aplicar meus conhecimentos de forma **significativa**, construindo soluções que **gerem impacto real**.  
 
-<p>
-  <img alt="HTML5" src="https://skillicons.dev/icons?i=html" height="40" style="margin: 0 10px" />
-  <img alt="CSS3" src="https://skillicons.dev/icons?i=css" height="40" style="margin: 0 10px" />
-  <img alt="JavaScript" src="https://skillicons.dev/icons?i=js" height="40" style="margin: 0 10px" />
-  <img alt="C#" src="https://skillicons.dev/icons?i=cs" height="40" style="margin: 0 10px" />
-  <img alt="MySQL" src="https://skillicons.dev/icons?i=mysql" height="40" style="margin: 0 10px" />
- <img alt="PHP" src="https://skillicons.dev/icons?i=php" height="40" style="margin: 0 10px" />
-  <img alt="Linux" src="https://skillicons.dev/icons?i=linux" height="40" style="margin: 0 10px" />
-  <img alt="Git" src="https://skillicons.dev/icons?i=git" height="40" style="margin: 0 10px" />
-  <img alt="VSCode" src="https://skillicons.dev/icons?i=vscode" height="40" style="margin: 0 10px" />
-  </p>
+> 💡 *“A ciência pode nos levar até Deus, se a buscarmos com amor e verdade.”* – São Tomás de Aquino
 
+---
 
-## 📈 GitHub Stats
+## ⚙️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturOSantana&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturOSantana&layout=compact&theme=tokyonight" />
+
+**Stack Principal**  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs,mysql,php" height="45" />
+</p>
+
+**Ferramentas & Outras Skills**  
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,vscode,github,figma" height="45" />
+</p>
+
 </div>
 
 ---
 
-## 🌐 Conecte-se comigo | Connect with me
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ArturOSantana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturOSantana&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img height="160em" src="https://streak-stats.demolab.com?user=ArturOSantana&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+
+## 🌐 Conecte-se comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/artur-oliveira-de-santana/" target="_blank">
@@ -49,5 +64,5 @@
 ---
 
 <p align="center">
-  Feito com 💙, propósito e café por <strong>Artur Oliveira de Santana</strong> ☕
+  Feito com 💙, propósito e ☕ por <strong>Artur Oliveira de Santana</strong>  
 </p>
