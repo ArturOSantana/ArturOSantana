@@ -14,7 +14,7 @@
 Sou apaixonado por **tecnologia e inovação**.  
 Meu propósito é aprender continuamente e aplicar meus conhecimentos de forma **significativa**, construindo soluções que **gerem impacto real**.  
 
-> 💡 *“A ciência pode nos levar até Deus, se a buscarmos com amor e verdade.”* – São Tomás de Aquino
+> 
 
 ---
 
